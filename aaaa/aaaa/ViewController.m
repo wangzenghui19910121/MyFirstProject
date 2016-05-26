@@ -23,7 +23,7 @@
     
     NSLog(@"陈权迪吃大屁!!!");
     
-    
+    self.view.backgroundColor = [UIColor redColor];
 }
 
 
