@@ -22,6 +22,9 @@
 -(void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event{
     
     NSLog(@"陈权迪吃大屁!!!");
+    NSLog(@"一楼说的是假话,李双阳吃屎去吧");
+    
+    NSLog(@"李双阳不是人");
     
     
 }
